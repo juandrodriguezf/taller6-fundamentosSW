@@ -1,4 +1,4 @@
-package com.taller6;
+package com.taller6.monolithic;
 
 import java.util.Scanner;
 
